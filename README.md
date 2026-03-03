@@ -288,6 +288,8 @@ Authorization: Bearer JWT_TOKEN
 
 ## 📸 Podgląd API (Swagger UI)
 
-```markdown
-![Swagger Screenshot](./swagger.png)
-```
+
+## Swagger UI
+
+![Swagger UI](swagger.png)
+
